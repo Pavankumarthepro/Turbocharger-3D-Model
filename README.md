@@ -32,3 +32,9 @@ Run motion analysis to visualize turbine rotation.
 CFD analysis for airflow and thermal optimization.
 Finite Element Analysis (FEA) for stress and fatigue study.
 Prototyping and validation for real-world applications.
+
+
+
+https://github.com/user-attachments/assets/0cf0855c-ad2c-4417-90e5-6b961105c251
+
+
