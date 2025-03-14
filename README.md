@@ -1,4 +1,5 @@
 Turbocharger Design in SolidWorks
+
 📌 Overview
 This project is a 3D CAD model of a turbocharger, designed as part of the Advanced Mechanical Engineering Design (MAE 6243) course. The design includes essential components such as the compressor, turbine, shaft, and housing, with a focus on performance, manufacturability, and simulation.
 
@@ -18,10 +19,13 @@ Download the project and extract the files.
 Open SolidWorks and load the Assembly file (.SLDASM).
 Explore individual parts (.SLDPRT) for detailed modifications.
 Run motion analysis to visualize turbine rotation.
+
 📷 Preview
-![Turbocharger_Cutsection](https://github.com/user-attachments/assets/83075562-dd08-402b-8d8a-66001c443424)
-![Turbocharger_view](https://github.com/user-attachments/assets/f8df6a15-632e-4d7f-9d1d-c27ce3c62f61)
-![Screenshot 2025-03-14 180754](https://github.com/user-attachments/assets/653e987f-d58c-490a-b798-616819bba68d)
+
+![Turbocharger_view](https://github.com/user-attachments/assets/e6a1085d-45cb-46e6-9b78-abd0aac41726)
+![Turbocharger_Cutsection](https://github.com/user-attachments/assets/1d3e328e-81cb-4996-94c0-8ff5d960957a)
+
+
 
 
 📜 Future Scope
