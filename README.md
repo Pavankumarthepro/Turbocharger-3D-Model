@@ -38,3 +38,5 @@ Prototyping and validation for real-world applications.
 https://github.com/user-attachments/assets/0cf0855c-ad2c-4417-90e5-6b961105c251
 
 
+📜 License
+This research is for educational and research purposes. Proper citation is required for reference or reproduction.
