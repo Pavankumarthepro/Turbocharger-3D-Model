@@ -35,6 +35,10 @@ Prototyping and validation for real-world applications.
 
 
 
+Uploading Turbocharger_Assembly motion study-1.mp4…
+
+
+
 https://github.com/user-attachments/assets/0cf0855c-ad2c-4417-90e5-6b961105c251
 
 
